@@ -17,3 +17,7 @@ We will be looking at a dataset that has been scraped from a piracy website like
 ## Dataset
 The dataset I have used was from Kaggle about the Pirated movies from an illegal website. 
 The link to the [dataset](https://www.kaggle.com/datasets/arsalanrehman/movies-dataset-from-piracy-website)
+## Images
+The images are the visualizations that are the end product of this analysis. I believe that further analysis could bring more visuals and better insights.
+
+Thank you
